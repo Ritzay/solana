@@ -241,4 +241,12 @@ html {
     margin-left: auto;
     margin-right: auto;
   }
+  .claim_image {
+    width: 20%;
+    height: 200px;
+    display: flex;
+    justify-content: flex-start;
+
+  }
+
 }
